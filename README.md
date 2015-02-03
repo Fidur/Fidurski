@@ -1,0 +1,2 @@
+# Fidurski
+pierwsza repka github
